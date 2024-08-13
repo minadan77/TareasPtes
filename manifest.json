@@ -16,6 +16,6 @@
   "start_url": "index.html", /* Asegúrate que este sea el nombre de tu archivo HTML */
   "background_color": "#1a2635",
   "display": "standalone",
-  "scope": "/TareasPtes/",
+  "scope": "./",
   "theme_color": "#1a2635"
 }
